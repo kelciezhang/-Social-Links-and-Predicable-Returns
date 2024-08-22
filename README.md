@@ -1,1 +1,1 @@
-# -Social-Links-and-Predicable-Returns
+# Social-Links-and-Predicable-Returns
