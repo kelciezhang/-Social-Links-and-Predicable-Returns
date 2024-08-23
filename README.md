@@ -10,8 +10,4 @@ The project is motivated by the hypothesis that there is a cross-predictability 
 
 I mainly contributed to writing the codes to construct such an SLM factor(this repository). If you are interested in the theories and experimental results, please refer to the [recent progress](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477466) of the main authors for a more formal exposition and references. 
 
-Next, I introduce the structure of the codes. 
-
-
-
 Welcome comments, discussions, and corrections of any kind!
