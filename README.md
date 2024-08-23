@@ -6,4 +6,4 @@ The theory underlying predictable stock prices is that the efficient market hypo
 
 Among [Boardex](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477466) 
 
-I mainly contributed to writing the codes to construct such a social link momentum factor. If you are interested in the theories and experimental results, please refer to the [recent progress](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477466) of the main authors for a more formal exposition. 
+I mainly contributed to writing the codes to construct such a social link momentum factor(this repository). If you are interested in the theories and experimental results, please refer to the [recent progress](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477466) of the main authors for a more formal exposition. 
